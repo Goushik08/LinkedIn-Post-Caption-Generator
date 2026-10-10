@@ -8,7 +8,7 @@ A Generative AI application that generates LinkedIn posts using examples from pr
 
 * **Topic Selection:** Choose from topics extracted from existing posts.
 * **Custom Length:** Generate short, medium, or long posts.
-* **Language Options:** Select English or Hinglish.
+* **Language Options:** Select English ,Thanglish or Hinglish
 * **Few-Shot Prompting:** Use relevant examples to guide the language model's output.
 * **Interactive Interface:** Generate posts through a Streamlit web application.
 
